@@ -1,1 +1,3 @@
-# zhangdaben2017.github.io
+## 玩法说明
+
+直接点就行
